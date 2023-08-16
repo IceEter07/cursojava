@@ -25,5 +25,4 @@ public class usuario {
     private String telefono;
     @Getter @Setter @Column(name = "password")
     private String password;
-
 }
